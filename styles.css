@@ -29,6 +29,14 @@ nav {
     font-size: 1.5rem;
     font-weight: bold;
     color: #000;
+    display: flex;
+    align-items: center;
+}
+
+.logo-svg {
+    height: 200px;
+    width: auto;
+    padding: 0px;
 }
 
 .nav-links {
